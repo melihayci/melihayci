@@ -9,15 +9,22 @@
 <div  align="center"> 
   
 
-# Technologies & Tools 🔨
+# Technologies and Tools 🔨
 
   <a href="https://code.visualstudio.com/download"> <img src="https://user-images.githubusercontent.com/112568528/187721029-a3e37adb-ba98-45d8-ae49-bb19f17e4b08.png" width="60" />
+    
+    
+    
+    
     
     
 
   </div >
   
-
+  
+  
+  
+ 
   
   
 
